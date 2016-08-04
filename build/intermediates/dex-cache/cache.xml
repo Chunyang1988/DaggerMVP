@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/TDD-08/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.0.2/de8416eda7b2fd7c25836b140c39e1cbf10542f6/dagger-2.0.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de8416eda7b2fd7c25836b140c39e1cbf10542f6">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.0.2_c3ee2909b0a879c0d9a1a67ba7ca55af2906d48f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_2454bb865e74c3af1da8efd6afda4d4bbc856153/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_6b4b4d9aa286c54ca5eb38824601c138fb14f687/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger-producers/2.0-beta/80276338d1c2542ebebac542b535d1ecd48a3fd7/dagger-producers-2.0-beta.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="80276338d1c2542ebebac542b535d1ecd48a3fd7">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-producers-2.0-beta_bea957618cd442c9ecb3fb0607303717d867d976/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9eaa9ea482630480702b0ac33fba222fc9cb43ce">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a3536c283132a45ba48807a0a11709e946dd1e5f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_db1d63faa5a7007211667622a94b0943cef393fb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.1.0_6e30386622044541f94c1bc092a9881d5f0c9ab6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_d538a0768709cecbc6d0d42e9b0ddac20684a626/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_06576f47affd749ff66025e1d6b6bad71fbc1309/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_9288a1ea585cec877793040c092dd24e04cfa020/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_5b92399e1fbd8712ab7817322184ceb562e332be/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_e7fc8c1d32f6a998726120a69fc46dc83d3bde61/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_025ec2a840992e5c8bcc4e6d51359fcd4578bc03/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_09306baccf064415e0d6962c76e2097215041538/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-18.0_c23d8829560f0bd04005a1b1392a57337328ed15/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7a4db81e1b1707b3b967c4f151515aba7bfb0c6e">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dc380e431f12bb5c2abd34665d92e7f9577499a4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_6c0ab9905bc1d3ca73205c1cb20d2637f5536427/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_6c27c54b85a53a41637efd03efdab5ffe2837e93/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.annotation/10.0-b28/30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba/javax.annotation-10.0-b28.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.annotation-10.0-b28_ded732c202aa5641e5b41b59db9fe682d6237a8d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.4.1_055584e378fada0364c1daab04583d988e4f5164/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger-compiler/2.0.2/1170f75c1ce293f80755bbc9fcd60e0765022bd0/dagger-compiler-2.0.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1170f75c1ce293f80755bbc9fcd60e0765022bd0">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-compiler-2.0.2_f7cbcf4b9514abb154d57d23f21a6fee8ff1cc90/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_a1552d46b6d308755a92b2a21a23003e4fe9ef5b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/TDD-08/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/TDD-08/Git/DaggerMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_564ee7d3a807bef909a7c0598b8b2002a65a6ab5/classes.dex" />
+    </item>
+
+</items>
